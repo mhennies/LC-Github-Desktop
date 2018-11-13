@@ -1,4 +1,4 @@
-#These are summarized as the FAIR "Facets":
+# These are summarized as the FAIR "Facets":
 
 *    Data should be *Findable*
 *    Data should be *Accessible*
